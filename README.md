@@ -1,7 +1,7 @@
 # **Cơ Chế Chơi & Điều Kiện Thắng/Thua**  
 
 ## **🎥 Video Demo**  
-👉 Xem video demo tại đây: [[**LINK_GOOGLE_DRIVE**](https://drive.google.com/drive/folders/1zAFJmejPlq1WTtXa2oMbBm8tqGxRRWNB?usp=drive_link)]  
+👉 Xem video demo tại đây: [[**LINK_GOOGLE_DRIVE**](https://drive.google.com/file/d/1Xg1QXz-ozDxl3ndwgQA0TCi2hlJLYTlY/view?usp=sharing)]  
 
 ## **📌 Tổng Quan Về Cách Chơi**  
 Trong trò chơi, người chơi phải sử dụng **máy ảnh** để chụp lại các **hiện tượng bất thường (anomaly)** xuất hiện trong ngôi nhà. Những hiện tượng này là chìa khóa để giải mã bí ẩn và tiến tới mục tiêu tiếp theo.  
